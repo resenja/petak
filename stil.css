@@ -1,0 +1,63 @@
+#stari-logo {
+  float: left;
+  width: 10%;
+  height: 20%;
+}
+header h1 {
+  width: 79%;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+  font-family: sans-serif;
+  color: red;
+}
+#novi-logo {
+  float: right;
+  width: 10%;
+  height: 20%;
+}
+
+main {
+  clear: both;
+}
+
+#levo {
+  display: inline-block;
+  vertical-align: top;
+  width: 33%;
+  background-color: beige;
+}
+#levo h2 {
+  text-align: center;
+}
+#naslov-navigacije {
+  color: blue;
+}
+#navigacija {
+  color: blue;
+}
+
+#centar {
+  display: inline-block;
+  vertical-align: top;
+  width: 33%;
+}
+#centar h2 {
+  text-align: center;
+}
+#centar p {
+  color: green;
+  font-size: 90%; /* DAĆE TI MNOGO DUGAČAK TEKST, PA SMANJI MALO VELIČINU FONTA DA NE BI MORAO DA SKROLUJEŠ STRANICU */
+}
+
+#desno {
+  display: inline-block;
+  vertical-align: top;
+  width: 33%;
+}
+#desno h2 {
+  text-align: center;
+}
+#desno p {
+  color: cyan;
+}
